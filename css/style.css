@@ -1,0 +1,16 @@
+.section-heading {
+    margin: 6% 0 3% 0;
+}
+
+.navbar-fixed-top {
+    background: #333;
+}
+
+.page-top, .page-scroll {
+    color: white !important;
+}
+
+#odd {
+    bottom: 279px;
+}
+
